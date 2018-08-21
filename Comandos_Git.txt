@@ -1,4 +1,4 @@
 git config --global user.name "karlos7"
 git . (add tudo)
 git nome do arquivo (add arquivo especifico)
-Testando só com o commit -m
+Testando só com o commit -m (Tem que dar o push)
