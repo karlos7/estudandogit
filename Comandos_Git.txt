@@ -5,3 +5,5 @@ Testando só com o commit -m (Tem que dar o push)
 git commit -a -m (não precisa do add, já commita logo)
 
 git diff (Testando visualizar o que eu modifiquei)
+
+git diff --staged (Visualiza dentro depois do add .)
