@@ -7,3 +7,5 @@ git commit -a -m (não precisa do add, já commita logo)
 git diff (Testando visualizar o que eu modifiquei)
 
 git diff --staged (Visualiza dentro depois do add .)
+
+git push antes de git commit não envia pra nuvem
